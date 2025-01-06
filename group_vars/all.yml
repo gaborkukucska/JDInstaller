@@ -67,7 +67,7 @@ common:
 # Variables from roles/davinci_resolve
 davinci_resolve_enabled: false
 davinci_resolve:
-  install_studio: false # Set to true to install the Studio version
+  install_studio: true # Set to true to install the Studio version
   free:
     download_referid: b18a01b5460b4c6f867bb007e9861543
     product: DaVinci Resolve
